@@ -65,5 +65,5 @@ Weather-App/
 
 ## 🙌 Acknowledgements
 
-Thanks to all the amazing contributors for helping improve this project ❤️
+Thanks to all the amazing contributors for helping improve this project ❤️<br>
 This project is a part of GSSoC'25 🚀
