@@ -26,7 +26,6 @@ It also visualizes the forecast data using **interactive charts**.
 
 ---
 
- <br>
 
 # 🔧 How to Fork & Clone this Repository
 
